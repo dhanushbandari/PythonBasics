@@ -6,6 +6,7 @@ Collection of Programs that are grouped to solve human problems
 <br>
 There are 2 Major Types of Software 
 <br>
+<hr>
 <b>1. Application Software</b><br>
 Any S/W which is designed to help the humans in order to perform the certain day to day activities may be personal/ bussines / Education/Entertaiment
 <hr>
