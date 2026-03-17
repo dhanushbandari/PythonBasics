@@ -25,19 +25,19 @@ Creator Of Python : <b>Guido van Rassum</b>
 <hr>
 <b>Important Reason</b>
 <br>
-<b>Dynamically Typed</b>
+<b>1.Dynamically Typed</b>
 <br>
 We don't have a concept of data type that has to be mentioned during variable creation(Because Python has the capabilty of understanding of data being stored in a variable)
 <br>
-<b>Object Oriented</b>
+<b>2.Object Oriented</b>
 <br>
 Real world Entity,where python sees everythong around it's as an object 
 <br>
-<b>Functional</b>
+<b>3.Functional</b>
 <br>
 Python has many inbuilt general Purpose function,which fastens the development activities
 <br>
-<b>Platform Independent</b>
+<b>4.Platform Independent</b>
 <br>
 Python can be written in any platform and same code can be executed in any platform 
 
