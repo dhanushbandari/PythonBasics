@@ -10,9 +10,9 @@ Types Of Pattern ..
 <br>
 <b>2.Recombination Pattern :</b> In recombination pattern,multiple pattern merge together Column wise
 <br>
---- Always Check it is a rectangle, If yes apply square cut technique,row with row 
+---> Always Check it is a rectangle, If yes apply square cut technique,row with row 
 <br>
---- Draw the square solve it form left to right 
+---> Draw the square solve it form left to right 
 <br>
 <b>3.Fussion Pattern : </b>These Patterns Combined row wise,the identification is done based on the number of stars using number series
 <hr>
