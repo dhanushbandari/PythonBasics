@@ -33,14 +33,22 @@ Types Of Pattern ..
 <br>
 In Boundary Pattern we don't control the loops i.e everything is cut from the square using selection statement 
 <br>
-* * * * * * * * *  
-*               *  
-*               *  
-*               *  
-*               *  
-*               *  
-*               *  
-*               *  
+* * * * * * * * * 
+<br> 
+*               * 
+<br>  
+*               * 
+<br>  
+*               * 
+<br>  
+*               * 
+<br>  
+*               * 
+<br>  
+*               * 
+<br>  
+*               * 
+<br>  
 * * * * * * * * *  
 <br>
 
