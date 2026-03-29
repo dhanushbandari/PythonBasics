@@ -15,7 +15,7 @@ Types Of Pattern ..
 --- Draw the square solve it form left to right 
 <br>
 <b>3.Fussion Pattern : </b>These Patterns Combined row wise,the identification is done based on the number of stars using number series
-<br>
+<hr>
 Steps To Solve the Fussion Patterns :
 <br>
 --> Always Check if it is a fussion pattern, then if it is cut it 
