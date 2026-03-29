@@ -39,6 +39,24 @@ In Boundary Pattern we don't control the loops i.e everything is cut from the sq
 <br>
 <b>2.Cross Diagonal<b/> 
 <br>
+<hr>
+<b>Numerical Pattern</b>
+<br>
+1.Continious Pattern 
+<br>
+2.Non Continious Pattern
+<br>
+<hr>
+For Printing the number we use extra variable
+<br> 
+When it comes to non-continous pattern, the first value of variable should be generalised using the first coloumn
+<br> 
+<b>Numberical Pattern or solid Pattern
+1.Identify pattern skeleton strcture (star Pattern)
+<br> 
+2.All the steps of star pattern
+<br> 
+3.Replace the star with number 
 
 
 
