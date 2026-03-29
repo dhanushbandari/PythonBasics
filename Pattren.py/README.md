@@ -33,23 +33,10 @@ Types Of Pattern ..
 <br>
 In Boundary Pattern we don't control the loops i.e everything is cut from the square using selection statement 
 <br>
-* * * * * * * * * 
-<br> 
-*               * 
-<br>  
-*               * 
-<br>  
-*               * 
-<br>  
-*               * 
-<br>  
-*               * 
-<br>  
-*               * 
-<br>  
-*               * 
-<br>  
-* * * * * * * * *  
+<b>Diagonal of a Square</b>
+<b>1.Normal Diagonal<b/>
+<br>
+<b>2.Cross Diagonal<b/> 
 <br>
 
 
