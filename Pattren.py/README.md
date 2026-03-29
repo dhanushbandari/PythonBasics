@@ -1,4 +1,5 @@
 <b>PATTERN PROGRAMMING</b>
+<hr>
 <br>
 -- What is Pattren Programming--
 <br>
@@ -16,7 +17,7 @@ Types Of Pattern ..
 <br>
 <b>3.Fussion Pattern : </b>These Patterns Combined row wise,the identification is done based on the number of stars using number series
 <hr>
-Steps To Solve the Fussion Patterns :
+<b>Steps To Solve the Fussion Patterns :</b>
 <br>
 --> Always Check if it is a fussion pattern, then if it is cut it 
 <br>
@@ -26,7 +27,22 @@ Steps To Solve the Fussion Patterns :
 <br>
 --> Generalize each and every segment 
 <br>
---> Writting the program 
+--> Writting the program
+<hr>
+<b>Boundary Pattern</b>
+<br>
+In Boundary Pattern we don't control the loops i.e everything is cut from the square using selection statement 
+<br>
+* * * * * * * * *  
+*               *  
+*               *  
+*               *  
+*               *  
+*               *  
+*               *  
+*               *  
+* * * * * * * * *  
+<br>
 
 
 
