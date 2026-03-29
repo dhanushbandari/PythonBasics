@@ -3,13 +3,7 @@
 -- What is Pattren Programming--
 <br>
 It is a 2D figure on the Screen..
-<br>
-******
-<br>
-******
-<br>
-******
-<br>
+<hr>
 Types Of Pattern ..
 <br>
 1.Cutting The Stars
@@ -24,9 +18,13 @@ Types Of Pattern ..
 Steps To Solve the Fussion Patterns :
 <br>
 --> Always Check if it is a fussion pattern, then if it is cut it 
+<br>
 --> Now check individual pattern are rectangle if yes apply square cut technique
+<br>
 --> If needed use recombination
+<br>
 --> Generalize each and every segment 
+<br>
 --> Writting the program 
 
 
