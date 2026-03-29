@@ -52,6 +52,7 @@ For Printing the number we use extra variable
 When it comes to non-continous pattern, the first value of variable should be generalised using the first coloumn
 <br> 
 <b>Numberical Pattern or solid Pattern
+<br> 
 1.Identify pattern skeleton strcture (star Pattern)
 <br> 
 2.All the steps of star pattern
