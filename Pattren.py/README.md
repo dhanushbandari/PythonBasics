@@ -6,14 +6,15 @@ It is a 2D figure on the Screen..
 <hr>
 Types Of Pattern ..
 <br>
-1.Cutting The Stars
+<b>1.Cutting The Stars</b>
 <br>
-2.Recombination Pattern : In recombination pattern,multiple pattern merge together Column wise
+<b>2.Recombination Pattern :</b> In recombination pattern,multiple pattern merge together Column wise
 <br>
 --- Always Check it is a rectangle, If yes apply square cut technique,row with row 
+<br>
 --- Draw the square solve it form left to right 
 <br>
-3.Fussion Pattern : These Patterns Combined row wise,the identification is done based on the number of stars using number series
+<b>3.Fussion Pattern : </b>These Patterns Combined row wise,the identification is done based on the number of stars using number series
 <br>
 Steps To Solve the Fussion Patterns :
 <br>
